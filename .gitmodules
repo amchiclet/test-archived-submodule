@@ -1,0 +1,3 @@
+[submodule "semgrep-action"]
+	path = semgrep-action
+	url = https://github.com/semgrep/semgrep-action.git
