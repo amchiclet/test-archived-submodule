@@ -1,3 +1,3 @@
-[submodule "semgrep-action"]
-	path = semgrep-action
-	url = https://github.com/semgrep/semgrep-action.git
+[submodule "archived-repo"]
+	path = archived-repo
+	url = https://github.com/amchiclet/archived-repo.git
